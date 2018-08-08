@@ -1,6 +1,6 @@
 <br>Continuos Integration | TODO Application</br>
 <br>Problem Description</br>
-Setup CI for a project hosted on this repo. The above repository contains a basic Node based TODO Application.
+Setup CI for a project hosted on this repo <href>https://github.com/m45t3r39/node-test</href>. The above repository contains a basic Node based TODO Application.
 
 <br>Expectations</br>
 The setup should be a Jenkins master slave setup where slave should have below jobs ( jobs can be generated with Job DSL, and having a complete pipeline structure )
